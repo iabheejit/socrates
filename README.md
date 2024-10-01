@@ -1,4 +1,4 @@
-# AI-Powered Socratic Teaching Assistant for Data Structures and Algorithms
+# AI-Powered Socratic Learning Co-Pilot
 
 ## Overview
 
